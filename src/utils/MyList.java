@@ -23,7 +23,7 @@ public interface MyList<T> extends Iterable<T> {
     boolean isEmpty();
 
     T get(int index);
-o
+
     void set (int index, T value);
 
 
